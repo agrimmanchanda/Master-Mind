@@ -2,6 +2,7 @@
 C++ implementation of creator and solver for Master Mind. Used Max Parts and Knuth's algorithms.
 
 To compile, enter on command line: g++ main.cpp -o main
+
 To run, enter on command line: ./main
 
 The program will first ask for length of sequence and number of possible values. Please enter two numbers respectively, e.g. 4 6. 
