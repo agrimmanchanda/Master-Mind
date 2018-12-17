@@ -12,4 +12,4 @@ Note: Black pegs = correct number at correct position. White pegs = correct numb
 
 The aim of the program is to minimise the number of attempts needed by using the information from black/white pegs (using Max Parts and Knuth's).
 
-It 50 tests and displays average time per test at the end to measure performance factors.
+It runs 50 tests and displays average time per test at the end to measure performance factors.
